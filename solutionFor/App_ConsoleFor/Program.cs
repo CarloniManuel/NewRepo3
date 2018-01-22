@@ -10,6 +10,7 @@ namespace App_ConsoleFor
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("benvenuto nel programma For");
             int numero = 0;
             string risposta;
             Console.WriteLine("inserisca quante volte vuole far ripetere la risposta");
